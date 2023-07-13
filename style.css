@@ -1,6 +1,18 @@
+@media screen and (max-width: 476px) {
+
+        .pure,.web{
+            font-size: 1.9rem !important;
+            font-weight: 800;
+            
+        }
+    
+    
+}
+
 .card-img-top{
     border: 3px solid #dee2e6;
     background-color: white;
+    
 }
 .displayy{
     font-size: 5.5rem;
@@ -29,6 +41,7 @@
 }
 .nav-link{
     font-weight: 500;   
+    
 
 }
 .nav-item{
@@ -38,4 +51,7 @@
 .pure,.web{
     font-size: 6rem;
     
+}
+.p-5{
+    padding: 5rem !important;
 }
