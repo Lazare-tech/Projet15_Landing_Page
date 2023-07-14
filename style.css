@@ -10,13 +10,24 @@
             font-weight: 900;
 
         }
-    
+}
+@media screen and (max-width: 362px) {
+    .p{
+        font-size: 2rem !important;
+        font-weight: 900;
+    }
+    .pure {
+        color: red !important;
+    }
+
     
 }
+
 body{
     padding-left: -3px;
     padding-right: -3px;
 }
+
 .card-img-top{
     border: 3px solid #dee2e6;
     background-color: white;
